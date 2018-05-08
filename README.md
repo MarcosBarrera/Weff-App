@@ -4,4 +4,4 @@ A Shiny app where the user is able to select among all the variables to create m
 
 Unfortunately, the database is not available due to its size. 
 
-This app is a complementary piece of work to #UniversityHack repository.
+This app is a complementary piece of work to #UniversityHack-2018 repository.
